@@ -1,0 +1,33 @@
+.container{
+    width: 600px;
+}
+
+.name, .comment, .submit{
+    display: block;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+
+.name, .comment{
+   font-size: 1rem; 
+   color: rgb(218, 221, 223);
+}
+
+.title{
+    font-size: 1.2rem;
+}
+
+.name{
+    border: hidden;
+    border: 1px solid rgb(218, 221, 223);
+    width: 315px;
+}
+
+.submit{
+    background-color: rgb(0, 112, 255);
+    color: #fff;
+    font-size: 1rem;
+    width: 100px;
+    height: 35px;
+    border: none;
+}
